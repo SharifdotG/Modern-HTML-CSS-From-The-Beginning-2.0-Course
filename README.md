@@ -11,7 +11,7 @@ This repository contains my notes and projects from the "Modern HTML & CSS From 
 ## Course Progress
 
 - [x] *Section 1: Introduction*
-- [ ] [**Section 2: Essential HTML (Currently Learning)**](/Section%202:%20Essential%20HTML/)
+- [x] *[Section 2: Essential HTML (Currently Learning)](/Section%202:%20Essential%20HTML/)*
 - [ ] Section 3: HTML Forms & Input Elements
 - [ ] Section 4: More HTML Elements
 - [ ] Section 5: CSS Basics
