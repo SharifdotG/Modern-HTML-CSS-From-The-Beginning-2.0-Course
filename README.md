@@ -1,5 +1,9 @@
 # Modern HTML & CSS From The Beginning 2.0 Course
 
+## About
+
+This repository contains my notes and projects from the "Modern HTML & CSS From The Beginning 2.0" course by Brad Traversy on Udemy. The course covers essential HTML and CSS concepts, including forms, responsive design, Flexbox, CSS Grid, and more. I will be updating this repository with my progress as I work through the course.
+
 ## Link
 
 [Modern HTML & CSS From The Beginning 2.0 Course](https://www.udemy.com/course/modern-html-css-from-the-beginning/) - by Brad Traversy on Udemy.
