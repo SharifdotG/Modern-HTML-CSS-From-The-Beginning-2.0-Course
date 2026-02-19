@@ -16,8 +16,8 @@ This repository contains my notes and projects from the "Modern HTML & CSS From 
 - [x] [*Section 4: More HTML Elements*](/Section%204%20-%20More%20HTML%20Elements/)
 - [x] [*Section 5: CSS Basics*](/Section%205%20-%20CSS%20Basics/)
 - [x] [*Section 6: Box Model & Positioning*](/Section%206%20-%20Box%20Model%20and%20Positioning/)
-- [ ] [**Section 7: Flexbox (Currently Learning)**](/Section%207%20-%20Flexbox/)
-- [ ] Section 8: Responsive Design
+- [x] [*Section 7: Flexbox*](/Section%207%20-%20Flexbox/)
+- [ ] [**Section 8: Responsive Design (Currently Learning)**](/Section%208%20-%20Responsive%20Design/)
 - [ ] Section 9: Landing Form Mini-Project
 - [ ] Section 10: Various CSS Features
 - [ ] Section 11: Lumina Creative Website Project
