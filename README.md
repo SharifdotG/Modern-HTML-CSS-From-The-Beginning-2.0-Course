@@ -11,12 +11,12 @@ This repository contains my notes and projects from the "Modern HTML & CSS From 
 ## Course Progress
 
 - [x] *Section 1: Introduction*
-- [x] [*Section 2: Essential HTML*](/Section%202.%20Essential%20HTML/)
-- [x] [*Section 3: HTML Forms & Input Elements*](/Section%203.%20HTML%20Form%20and%20Input%20Elements/)
-- [x] [*Section 4: More HTML Elements*](/Section%204.%20More%20HTML%20Elements/)
-- [x] [*Section 5: CSS Basics*](/Section%205.%20CSS%20Basics/)
-- [ ] [**Section 6: Box Model & Positioning (Currently Learning)**](/Section%206.%20Box%20Model%20and%20Positioning/)
-- [ ] Section 7: Flexbox
+- [x] [*Section 2: Essential HTML*](/Section%202%20-%20Essential%20HTML/)
+- [x] [*Section 3: HTML Forms & Input Elements*](/Section%203%20-%20HTML%20Form%20and%20Input%20Elements/)
+- [x] [*Section 4: More HTML Elements*](/Section%204%20-%20More%20HTML%20Elements/)
+- [x] [*Section 5: CSS Basics*](/Section%205%20-%20CSS%20Basics/)
+- [x] [*Section 6: Box Model & Positioning*](/Section%206%20-%20Box%20Model%20and%20Positioning/)
+- [ ] [**Section 7: Flexbox (Currently Learning)**](/Section%207%20-%20Flexbox/)
 - [ ] Section 8: Responsive Design
 - [ ] Section 9: Landing Form Mini-Project
 - [ ] Section 10: Various CSS Features
