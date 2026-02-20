@@ -11,18 +11,22 @@ This repository contains my notes and projects from the "Modern HTML & CSS From 
 ## Course Progress
 
 - [x] *Section 1: Introduction*
-- [x] [*Section 2: Essential HTML*](/Section%202%20-%20Essential%20HTML/)
-- [x] [*Section 3: HTML Forms & Input Elements*](/Section%203%20-%20HTML%20Form%20and%20Input%20Elements/)
-- [x] [*Section 4: More HTML Elements*](/Section%204%20-%20More%20HTML%20Elements/)
-- [x] [*Section 5: CSS Basics*](/Section%205%20-%20CSS%20Basics/)
-- [x] [*Section 6: Box Model & Positioning*](/Section%206%20-%20Box%20Model%20and%20Positioning/)
-- [x] [*Section 7: Flexbox*](/Section%207%20-%20Flexbox/)
-- [x] [*Section 8: Responsive Design*](/Section%208%20-%20Responsive%20Design/)
-- [x] [*Section 9: Landing Form Mini-Project*](/Section%209%20-%20Landing%20Form%20Mini-Project/)
+- [x] [*Section 2: Essential HTML*](/Section%2002%20-%20Essential%20HTML/)
+- [x] [*Section 3: HTML Forms & Input Elements*](/Section%2003%20-%20HTML%20Form%20and%20Input%20Elements/)
+- [x] [*Section 4: More HTML Elements*](/Section%2004%20-%20More%20HTML%20Elements/)
+- [x] [*Section 5: CSS Basics*](/Section%2005%20-%20CSS%20Basics/)
+- [x] [*Section 6: Box Model & Positioning*](/Section%2006%20-%20Box%20Model%20and%20Positioning/)
+- [x] [*Section 7: Flexbox*](/Section%2007%20-%20Flexbox/)
+- [x] [*Section 8: Responsive Design*](/Section%2008%20-%20Responsive%20Design/)
+- [x] ***Section 9: Landing Form Mini-Project***
+  - [Codebase](/Section%2009%20-%20Landing%20Form%20Mini-Project/)
+  - 💠 Live Demo: <https://sharifdotg-bono-app-landing-form.netlify.app/>
 - [x] [*Section 10: Various CSS Features*](/Section%2010%20-%20Various%20CSS%20Features/)
-- [x] [*Section 11: Lumina Creative Website Project*](/Section%2011%20-%20Lumina%20Creative%20Website%20Project/)
-- [ ] [**Section 12: Git, GitHub & Web Hosting (Currently Learning)**]
-- [ ] Section 13: Web Accessibility Introduction
+- [x] ***Section 11: Lumina Creative Website Project***
+  - [Codebase](/Section%2011%20-%20Lumina%20Creative%20Website%20Project/)
+  - 💠 Live Demo: <https://sharifdotg-lumina-creative-website.netlify.app/>
+- [x] *Section 12: Git, GitHub & Web Hosting*
+- [ ] [*Section 13: Web Accessibility Introduction (Currently Learning)*](/Section%2013%20-%20Web%20Accessibility%20Introduction/)
 - [ ] Section 14: Advanced Selectors - Pseudo Classes & Elements
 - [ ] Section 15: CSS Grid
 - [ ] Section 16: Transitions, Animations & A Little JavaScript
@@ -31,10 +35,3 @@ This repository contains my notes and projects from the "Modern HTML & CSS From 
 - [ ] Section 19: Leno Website Project (BEM) - Part 1
 - [ ] Section 20: Leno Website Project (BEM) - Part 2
 - [ ] Section 21: Outro
-
-## Live Project Links
-
-- [Landing Form Mini-Project](Coming Soon...)
-- [Lumina Creative Website Project](Coming Soon...)
-- [Tutor Website Project](Coming Soon...)
-- [Leno Website Project (BEM)](Coming Soon...)
