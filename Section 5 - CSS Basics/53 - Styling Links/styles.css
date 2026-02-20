@@ -1,29 +1,29 @@
 body {
-    font-family: Arial, sans-serif;
+  font-family: Arial, sans-serif;
 }
 
 /* Regular Styling */
 a {
-    text-decoration: none;
-    color: #333;
+  text-decoration: none;
+  color: #333;
 }
 
 /* Hover */
 a:hover {
-    color: red;
+  color: red;
 }
 
 /* Active */
 a:active {
-    background: purple;
+  background: purple;
 }
 
 /* Focus */
 a:focus {
-    background: yellow;
+  background: yellow;
 }
 
 /* Visited */
 a:visited {
-    color: coral;
+  color: coral;
 }

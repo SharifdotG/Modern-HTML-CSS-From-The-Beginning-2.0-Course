@@ -19,9 +19,9 @@ This repository contains my notes and projects from the "Modern HTML & CSS From 
 - [x] [*Section 7: Flexbox*](/Section%207%20-%20Flexbox/)
 - [x] [*Section 8: Responsive Design*](/Section%208%20-%20Responsive%20Design/)
 - [x] [*Section 9: Landing Form Mini-Project*](/Section%209%20-%20Landing%20Form%20Mini-Project/)
-- [ ] [**Section 10: Various CSS Features (Currently Learning)**](/Section%2010%20-%20Various%20CSS%20Features/)
-- [ ] Section 11: Lumina Creative Website Project
-- [ ] Section 12: Git, GitHub & Web Hosting
+- [x] [*Section 10: Various CSS Features*](/Section%2010%20-%20Various%20CSS%20Features/)
+- [x] [*Section 11: Lumina Creative Website Project*](/Section%2011%20-%20Lumina%20Creative%20Website%20Project/)
+- [ ] [**Section 12: Git, GitHub & Web Hosting (Currently Learning)**]
 - [ ] Section 13: Web Accessibility Introduction
 - [ ] Section 14: Advanced Selectors - Pseudo Classes & Elements
 - [ ] Section 15: CSS Grid

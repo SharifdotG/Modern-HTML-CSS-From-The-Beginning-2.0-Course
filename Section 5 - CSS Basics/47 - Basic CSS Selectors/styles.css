@@ -1,7 +1,7 @@
 html,
 body {
-    font-family: "Arial", sans-serif;
-    border: 3px solid red;
+  font-family: "Arial", sans-serif;
+  border: 3px solid red;
 }
 
 /* Type Selectors */
@@ -17,28 +17,28 @@ a {
 
 /* Class Selectors */
 .sporty {
-    color: red;
+  color: red;
 }
 
 .casual {
-    color: blue;
+  color: blue;
 }
 
 .formal {
-    color: brown;
+  color: brown;
 }
 
 /* ID Selector */
 #container {
-    max-width: 600px;
-    margin: 100px auto;
-    padding: 20px;
+  max-width: 600px;
+  margin: 100px auto;
+  padding: 20px;
 }
 
 /* Multple Styles */
 .sporty,
 .casual {
-    font-size: 35px;
+  font-size: 35px;
 }
 
 /* Descedant Styles */
