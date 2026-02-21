@@ -26,8 +26,8 @@ This repository contains my notes and projects from the "Modern HTML & CSS From 
   - [Codebase](/Section%2011%20-%20Lumina%20Creative%20Website%20Project/)
   - 💠 Live Demo: <https://sharifdotg-lumina-creative-website.netlify.app/>
 - [x] *Section 12: Git, GitHub & Web Hosting*
-- [ ] [*Section 13: Web Accessibility Introduction (Currently Learning)*](/Section%2013%20-%20Web%20Accessibility%20Introduction/)
-- [ ] Section 14: Advanced Selectors - Pseudo Classes & Elements
+- [x] [*Section 13: Web Accessibility Introduction*](/Section%2013%20-%20Web%20Accessibility%20Introduction/)
+- [ ] [**Section 14: Advanced Selectors - Pseudo Classes & Element (Currently Learning)**](/Section%2014%20-%20Advanced%20Selectors%20-%20Pseudo%20Classes%20and%20Elements/)
 - [ ] Section 15: CSS Grid
 - [ ] Section 16: Transitions, Animations & A Little JavaScript
 - [ ] Section 17: Tutor Website Project - Part 1
