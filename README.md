@@ -4,10 +4,6 @@
 
 This repository contains my notes and projects from the "Modern HTML & CSS From The Beginning 2.0" course by Brad Traversy on Udemy. The course covers essential HTML and CSS concepts, including forms, responsive design, Flexbox, CSS Grid, and more. I will be updating this repository with my progress as I work through the course.
 
-## Link
-
-[Modern HTML & CSS From The Beginning 2.0 Course](https://www.udemy.com/course/modern-html-css-from-the-beginning/) - by Brad Traversy on Udemy.
-
 ## Course Progress
 
 - [x] *Section 1: Introduction*
@@ -19,19 +15,25 @@ This repository contains my notes and projects from the "Modern HTML & CSS From 
 - [x] [*Section 7: Flexbox*](/Section%2007%20-%20Flexbox/)
 - [x] [*Section 8: Responsive Design*](/Section%2008%20-%20Responsive%20Design/)
 - [x] ***Section 9: Landing Form Mini-Project***
-  - [Codebase](/Section%2009%20-%20Landing%20Form%20Mini-Project/)
-  - 💠 Live Demo: <https://sharifdotg-bono-app-landing-form.netlify.app/>
+  - [**Codebase**](/Section%2009%20-%20Landing%20Form%20Mini-Project/)
+  - 💠 **Live Demo:** <https://sharifdotg-bono-app-landing-form.netlify.app/>
 - [x] [*Section 10: Various CSS Features*](/Section%2010%20-%20Various%20CSS%20Features/)
 - [x] ***Section 11: Lumina Creative Website Project***
   - [Codebase](/Section%2011%20-%20Lumina%20Creative%20Website%20Project/)
   - 💠 Live Demo: <https://sharifdotg-lumina-creative-website.netlify.app/>
 - [x] *Section 12: Git, GitHub & Web Hosting*
 - [x] [*Section 13: Web Accessibility Introduction*](/Section%2013%20-%20Web%20Accessibility%20Introduction/)
-- [ ] [**Section 14: Advanced Selectors - Pseudo Classes & Element (Currently Learning)**](/Section%2014%20-%20Advanced%20Selectors%20-%20Pseudo%20Classes%20and%20Elements/)
-- [ ] Section 15: CSS Grid
-- [ ] Section 16: Transitions, Animations & A Little JavaScript
+- [x] [*Section 14: Advanced Selectors - Pseudo Classes & Element*](/Section%2014%20-%20Advanced%20Selectors%20-%20Pseudo%20Classes%20and%20Elements/)
+- [x] [*Section 15: CSS Grid*](/Section%2015%20-%20CSS%20Grid/)
+  - **Project Codebase:** [Lumina Creative Grid Refactor](/Section%2015%20-%20CSS%20Grid/148%20-%20Lumina%20Creative%20Grid%20Refactor/)
+  - 💠 **Live Demo:** <https://sharifdotg-lumina-creative-grid.netlify.app/>
+- [ ] [**Section 16: Transitions, Animations & A Little JavaScript(Currently Learning)**](/Section%2016%20-%20Transitions,%20Animation%20and%20A%20Little%20JavaScript/)
 - [ ] Section 17: Tutor Website Project - Part 1
 - [ ] Section 18: Tutor Website Project - Part 2
 - [ ] Section 19: Leno Website Project (BEM) - Part 1
 - [ ] Section 20: Leno Website Project (BEM) - Part 2
 - [ ] Section 21: Outro
+
+## Course Link
+
+[Modern HTML & CSS From The Beginning 2.0 Course](https://www.udemy.com/course/modern-html-css-from-the-beginning/) - by Brad Traversy on Udemy.

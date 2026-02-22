@@ -1,6 +1,6 @@
-# Lumina Creative - Project (Section 11)
+# Lumina Creative Grid - Project (148 - Lumina Creative Grid Refactor)
 
-A small, responsive marketing website built as one of the projects in the **"Modern HTML & CSS — From The Beginning"** course (Udemy).
+A small, responsive marketing website (Using CSS Grid) built as one of the projects in the **"Modern HTML & CSS — From The Beginning"** course (Udemy).
 
 ---
 
@@ -17,7 +17,7 @@ Live site: <https://sharifdotg-lumina-creative-website.netlify.app/>
 - `index.html` — Home / portfolio
 - `about.html` — About the studio
 - `contact.html` — Contact form page
-- `css/styles.css` — Main stylesheet
+- `css/styles.css` — Main stylesheet with CSS Grid
 - `images/` — Photography and assets
 
 ---
