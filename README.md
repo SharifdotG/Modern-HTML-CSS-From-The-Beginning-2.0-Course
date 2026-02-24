@@ -4,7 +4,7 @@
 
 This repository contains my notes and projects from the "Modern HTML & CSS From The Beginning 2.0" course by Brad Traversy on Udemy. The course covers essential HTML and CSS concepts, including forms, responsive design, Flexbox, CSS Grid, and more. I will be updating this repository with my progress as I work through the course.
 
-## Course Progress
+## Course Progress (Finished!)
 
 - [x] *Section 1: Introduction*
 - [x] [*Section 2: Essential HTML*](/Section%2002%20-%20Essential%20HTML/)
@@ -29,10 +29,12 @@ This repository contains my notes and projects from the "Modern HTML & CSS From 
   - 💠 **Live Demo: <https://sharifdotg-lumina-creative-grid.netlify.app/>**
 - [x] [*Section 16: Transitions, Animations & A Little JavaScript*](/Section%2016%20-%20Transitions,%20Animation%20and%20A%20Little%20JavaScript/)
 - [x] *Section 17 and Section 18: Tutor Website Project - Part 1 and Part 2*
-  - [**Codebase**](/Section%2017%20and%2018%20-%20Tutor%20Website%20Project%20-%20Part%201%20and%20Part%202/)
+  - [**Codebase**](/Section%2017%20and%20Section%2018%20-%20Tutor%20Website%20Project%20-%20Part%201%20and%20Part%202/)
   - 💠 **Live Demo: <https://sharifdotg-tutor-website.vercel.app/>**
-- [ ] [**Section 19 and Section 20: Leno Website Project (BEM) - Part 1 and Part 2 (Currently Learning)**](/Section%2019%20and%20Section%2020%20-%20Leno%20Website%20Project%20(BEM)%20-%20Part%201%20and%20Part%202/)
-- [ ] Section 21: Outro
+- [x] *Section 19 and Section 20: Leno Website Project (BEM) - Part 1 and Part 2*
+  - [**Codebase**](/Section%2019%20and%20Section%2020%20-%20Leno%20Website%20Project%20(BEM)%20-%20Part%201%20and%20Part%202/)
+  - 💠 **Live Demo: <https://sharifdotg-leno-website-project.vercel.app/>**
+- [x] *Section 21: Outro*
 
 ## Course Link
 
