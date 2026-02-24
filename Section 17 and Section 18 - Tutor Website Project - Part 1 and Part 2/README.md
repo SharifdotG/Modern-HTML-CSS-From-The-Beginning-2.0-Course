@@ -6,7 +6,7 @@ A responsive, multi-page website showcasing a fictional tutoring service. This p
 
 ## 🔎 Demo
 
-Live site: [*(no deployment yet)*](https://sharifdotg-tutor-website.vercel.app)
+Live site: <https://sharifdotg-tutor-website.vercel.app>
 
 ---
 
