@@ -15,24 +15,24 @@ This repository contains my notes and projects from the "Modern HTML & CSS From 
 - [x] [*Section 7: Flexbox*](/Section%2007%20-%20Flexbox/)
 - [x] [*Section 8: Responsive Design*](/Section%2008%20-%20Responsive%20Design/)
 - [x] ***Section 9: Landing Form Mini-Project***
-  - [**Codebase**](/Section%2009%20-%20Landing%20Form%20Mini-Project/)
+  - **Project Codebase:** [**Landing Form Mini-Project**](/Section%2009%20-%20Landing%20Form%20Mini-Project/)
   - 💠 **Live Demo: <https://sharifdotg-bono-app-landing-form.netlify.app/>**
 - [x] [*Section 10: Various CSS Features*](/Section%2010%20-%20Various%20CSS%20Features/)
 - [x] ***Section 11: Lumina Creative Website Project***
-  - [**Codebase**](/Section%2011%20-%20Lumina%20Creative%20Website%20Project/)
+  - **Project Codebase:** [**Lumina Creative Website Project**](/Section%2011%20-%20Lumina%20Creative%20Website%20Project/)
   - 💠 **Live Demo: <https://sharifdotg-lumina-creative-website.netlify.app/>**
 - [x] *Section 12: Git, GitHub & Web Hosting*
 - [x] [*Section 13: Web Accessibility Introduction*](/Section%2013%20-%20Web%20Accessibility%20Introduction/)
 - [x] [*Section 14: Advanced Selectors - Pseudo Classes & Element*](/Section%2014%20-%20Advanced%20Selectors%20-%20Pseudo%20Classes%20and%20Elements/)
 - [x] [*Section 15: CSS Grid*](/Section%2015%20-%20CSS%20Grid/)
-  - **Project Codebase:** [Lumina Creative Grid Refactor](/Section%2015%20-%20CSS%20Grid/148%20-%20Lumina%20Creative%20Grid%20Refactor/)
+  - **Project Codebase:** [**Lumina Creative Grid Refactor**](/Section%2015%20-%20CSS%20Grid/148%20-%20Lumina%20Creative%20Grid%20Refactor/)
   - 💠 **Live Demo: <https://sharifdotg-lumina-creative-grid.netlify.app/>**
 - [x] [*Section 16: Transitions, Animations & A Little JavaScript*](/Section%2016%20-%20Transitions,%20Animation%20and%20A%20Little%20JavaScript/)
 - [x] *Section 17 and Section 18: Tutor Website Project - Part 1 and Part 2*
-  - [**Codebase**](/Section%2017%20and%20Section%2018%20-%20Tutor%20Website%20Project%20-%20Part%201%20and%20Part%202/)
+  - **Project Codebase:** [**Tutor Website Project**](/Section%2017%20and%20Section%2018%20-%20Tutor%20Website%20Project%20-%20Part%201%20and%20Part%202/)
   - 💠 **Live Demo: <https://sharifdotg-tutor-website.vercel.app/>**
 - [x] *Section 19 and Section 20: Leno Website Project (BEM) - Part 1 and Part 2*
-  - [**Codebase**](/Section%2019%20and%20Section%2020%20-%20Leno%20Website%20Project%20(BEM)%20-%20Part%201%20and%20Part%202/)
+  - **Project Codebase:** [**Leno Website Project (BEM)**](/Section%2019%20and%20Section%2020%20-%20Leno%20Website%20Project%20(BEM)%20-%20Part%201%20and%20Part%202/)
   - 💠 **Live Demo: <https://sharifdotg-leno-website-project.vercel.app/>**
 - [x] *Section 21: Outro*
 
