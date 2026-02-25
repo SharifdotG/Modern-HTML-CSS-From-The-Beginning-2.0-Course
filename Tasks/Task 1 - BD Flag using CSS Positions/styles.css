@@ -7,11 +7,10 @@
 }
 
 .green-rectangle {
-  position: absolute;
-  width: 600px;
-  height: 360px;
+  position: relative;
+  width: 640px;
+  height: 320px;
   background: green;
-  overflow: hidden;
 }
 
 .red-circle {
