@@ -1,0 +1,79 @@
+body {
+  /* Center the clock on the screen */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: white;
+}
+
+/* The Clock Face */
+.clock {
+  width: 200px;
+  height: 200px;
+  border: 2px solid #999; /* Grey border */
+  border-radius: 50%; /* Makes it a circle */
+  position: relative;
+}
+
+/* Common styles for both hands */
+.hand {
+  position: absolute;
+  bottom: 50%; /* Start from the center vertically */
+  left: 50%; /* Start from the center horizontally */
+  transform-origin: bottom center; /* Pivot from the bottom of the line */
+  border-radius: 4px;
+}
+
+/* The Red Hour Hand */
+.hour {
+  width: 4px;
+  height: 80px; /* Longer */
+  background-color: red;
+  /* Start slightly offset so it's not perfectly at 12:00 immediately */
+  transform: translateX(-50%) rotate(210deg);
+  animation: spinHour 12s linear infinite;
+}
+
+/* The Blue Minute Hand */
+.minute {
+  width: 2px;
+  height: 60px; /* Shorter */
+  background-color: blue;
+  /* Start slightly offset */
+  transform: translateX(-50%) rotate(150deg);
+  animation: spinMinute 60s linear infinite;
+}
+
+/* A small dot in the center to cover the pivot point */
+.center-dot {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 6px;
+  height: 6px;
+  background: #333;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+}
+
+/* Animations */
+@keyframes spinHour {
+  from {
+    transform: translateX(-50%) rotate(0deg);
+  }
+  to {
+    transform: translateX(-50%) rotate(360deg);
+  }
+}
+
+@keyframes spinMinute {
+  from {
+    transform: translateX(-50%) rotate(0deg);
+  }
+  to {
+    transform: translateX(-50%) rotate(360deg);
+  }
+}
