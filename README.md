@@ -40,7 +40,7 @@ This repository contains my notes and projects from the "Modern HTML & CSS From 
 
 - [x] [*Task 1 - BD Flag using CSS Positions*](/Tasks/Task%201%20-%20BD%20Flag%20using%20CSS%20Positions/)
 - [x] [*Task 2 - Grid Gallery using CSS grid*](/Tasks/Task%202%20-%20Grid%20Gallery%20using%20CSS%20grid/)
-- [ ] [*Task 3 - Simple Clock*](/Tasks/Task%203%20-%20Simple%20Clock/)
+- [x] [*Task 3 - Simple Clock*](/Tasks/Task%203%20-%20Simple%20Clock/)
 
 ## Course Link
 
