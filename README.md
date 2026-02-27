@@ -40,7 +40,7 @@ This repository contains my notes and projects from the "Modern HTML & CSS From 
 
 - [x] [*Task 1 - BD Flag using CSS Positions*](/Tasks/Task%201%20-%20BD%20Flag%20using%20CSS%20Positions/) - [**Live Demo**](https://sharifdotg-bd-flag-css-positions.vercel.app/)
 - [x] [*Task 2 - Grid Gallery using CSS grid*](/Tasks/Task%202%20-%20Grid%20Gallery%20using%20CSS%20grid/) - [**Live Demo**](https://sharifdotg-grid-gallery-css-grid.vercel.app/)
-- [x] [*Task 3 - Simple Clock*](/Tasks/Task%203%20-%20Simple%20Clock/) - [**Live Demo**](https://sharifdotg-simple-clock.netlify.app/)
+- [x] [*Task 3 - Simple Clock*](/Tasks/Task%203%20-%20Simple%20Clock/) - [**Live Demo**](https://sharifdotg-simple-clock.vercel.app/)
 - [x] [*Task 4 - Figma to Code - Furniture eCommerce Website UI (Community)*](/Tasks/Task%204%20-%20Figma%20to%20Code%20-%20Furniture%20eCommerce%20Website%20UI%20(Community)/) - [**Live Demo**](https://sharifdotg-furniture-ecommerce-website-ui.vercel.app/)
 
 ## Course Link
