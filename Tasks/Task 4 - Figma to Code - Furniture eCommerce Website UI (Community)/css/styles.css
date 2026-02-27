@@ -381,7 +381,10 @@ button {
   background: rgb(58 58 58 / 72%);
   opacity: 0;
   visibility: hidden;
-  transition: opacity 0.2s ease;
+  transform: translateY(10px);
+  transition:
+    opacity 0.25s ease,
+    transform 0.25s ease;
 }
 
 .product-card__overlay-cta {
@@ -415,10 +418,12 @@ button {
   height: 16px;
 }
 
-.product-card--active .product-card__overlay,
-.product-card:hover .product-card__overlay {
+.product-card--active:hover .product-card__overlay,
+.product-card--active:focus-within .product-card__overlay {
   opacity: 1;
   visibility: visible;
+  transform: translateY(0);
+  pointer-events: auto;
 }
 
 .products__more {
@@ -1144,10 +1149,6 @@ button {
   }
 
   .product-card__overlay {
-    opacity: 1;
-    visibility: visible;
-    position: static;
-    background: #3a3a3a;
     gap: 14px;
     padding: 14px 14px 16px;
   }
